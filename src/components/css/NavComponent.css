@@ -1,0 +1,7 @@
+.nav {
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+    height: 60px;
+  }
+  
